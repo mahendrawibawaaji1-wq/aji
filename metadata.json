@@ -1,0 +1,7 @@
+{
+  "name": "Kala: Jurnal, Tugas & Keuangan Harian",
+  "description": "Aplikasi pribadi minimalis untuk jurnal harian & diary, manajemen tugas dengan alarm pengingat dan sinkronisasi kalender, serta pencatatan keuangan dan grafik analisis pengeluaran.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
